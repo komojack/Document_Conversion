@@ -1,0 +1,18 @@
+# 核心依赖（非 OCR）
+python-docx
+PyPDF2
+python-pptx
+beautifulsoup4
+
+# OCR 与 PDF 图像渲染
+pymupdf
+numpy
+paddlepaddle
+paddleocr
+
+# PDF 生成依赖
+reportlab
+markdown
+
+# 可选：生成测试用扫描 PDF
+Pillow
